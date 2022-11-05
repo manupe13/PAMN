@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Codelab 2.2</string>
+    <string name="enviar">Enviar</string>
+    <string name="mensaje_recibido">Mensaje Recibido</string>
+    <string name="Cosa1">Queso</string>
+    <string name="Cosa2">Arroz</string>
+    <string name="Cosa3">Chorizo</string>
+    <string name="Cosa4">Manzanas</string>
+    <string name="Cosa5">Pizzas</string>
+    <string name="Cosa6">Hamburguesas</string>
+</resources>

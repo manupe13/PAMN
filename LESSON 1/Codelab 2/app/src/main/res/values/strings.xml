@@ -1,0 +1,8 @@
+<resources>
+    <!-- Título de la aplicación -->
+    <string name="app_name">DiceRoller</string>
+
+    <!-- Etiqueta del botón -->
+    <string name="roll_label">Roll</string>
+    <!--<string name="count_up">Count Up</string>-->
+</resources>
